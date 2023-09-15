@@ -22,11 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello everyone, and welcome to my blog! My name is Naoto Nakanishi, and I'm currently a student at Kwansei Gakuin University.</p>
-
-		<p>When I'm not studying, I love to participate in competitive programming competitions, also known as "競プロ" in Japanese. It's an exciting and challenging hobby that allows me to constantly improve my problem-solving skills and logical thinking abilities.</p>
-
-		<p>Through this blog, I hope to share my experiences and insights on both university life and the world of competitive programming. Thank you for stopping by, and I hope you enjoy reading my posts!</p>
+        <p>SoftwareDeveloper with years of experience in designing, developing, testing, and maintaining a variety of enterprise web and mobile applications; proficient in a variety of platforms and languages; a strong background in software development and development. Collaborative and enthusiastic team player dedicated to streamlining processes and solving project problems efficiently. Able to learn and adapt quickly to new technologies. Strong customer focus, excellent written and verbal communication skills, able to understand and meet customer goals and expectations. Experience working in a high pressure environment delivering and maintaining mission critical systems.  </p>
       </section>
 	  <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`} >
 		<h2 className={utilStyles.headingLg}>Blog</h2>
